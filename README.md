@@ -1,4 +1,3 @@
-
 # 📈 Marketing Campaign Performance Analysis
 
 An end-to-end data analysis project focused on evaluating **marketing campaign performance across platforms, campaigns, countries, and time periods** using Python and Pandas.
@@ -217,79 +216,65 @@ Adopt a **performance-based optimization strategy** focused on:
 
 ## 🧠 Conclusion
 
-This marketing campaign performance analysis examined campaign, platform, country, and time-based performance using key KPIs such as **CTR, CPC, Conversion Rate, CPA, and ROAS**.
+This marketing campaign performance analysis examined campaign, platform, country, and time-based performance using key marketing KPIs such as CTR, CPC, conversion rate, CPA, and ROAS.
 
-The analysis revealed significant performance differences across platforms, campaigns, markets, and time periods. **Google Search** demonstrated strong conversion efficiency and ROAS, while several other platforms showed clear opportunities for optimization.
+The analysis revealed significant differences in performance across platforms, campaigns, markets, and time periods. Google Search demonstrated strong conversion efficiency and ROAS, while several other platforms showed opportunities for optimization.
 
-The findings highlight the importance of **performance-based budget allocation** and **continuous KPI monitoring**.
+The findings also showed that campaign and country performance can vary considerably, highlighting the importance of performance-based budget allocation and continuous KPI monitoring.
 
-Overall, this project demonstrates how **Python and Pandas** can be used to transform marketing data into actionable business insights and support data-driven marketing decisions.
+Overall, this project demonstrates how Python and Pandas can be used to transform marketing data into actionable business insights and support data-driven marketing decisions.
 
+---
 
-🚀 Future Improvements
-Build a machine learning model to predict campaign ROAS
+## 🚀 Future Improvements
 
-Feature importance analysis for high-performing campaigns
+This project currently focuses on exploratory data analysis and KPI evaluation.
 
-Country-level forecasting
+Future improvements could include:
 
-Interactive dashboard using Power BI or Tableau
+- Building a machine learning model to predict campaign ROAS
+- Feature importance analysis for high-performing campaigns
+- Country-level forecasting
+- Interactive dashboard using **Power BI** or **Tableau**
+- A/B testing simulation for campaign optimization
+- Budget allocation optimization model
 
-A/B testing simulation for campaign optimization
+---
 
-Budget allocation optimization model
+## 🧠 What I Learned
 
-🧠 What I Learned
 Through this project, I practiced:
 
-Data cleaning with Pandas
+- Data cleaning with Pandas
+- Marketing KPI calculation (CTR, CPC, CPA, ROAS)
+- Exploratory Data Analysis (EDA)
+- Group-by and pivot-based analysis
+- Customer and market segmentation
+- Data visualization with Matplotlib and Seaborn
+- Translating analytical findings into business recommendations
 
-Marketing KPI calculation (CTR, CPC, CPA, ROAS)
+---
 
-Exploratory Data Analysis (EDA)
+## 📝 Final Notes
 
-Group-by and pivot-based analysis
+- The analysis covers **campaign, platform, country, and time-based performance**.
+- Key KPIs include **CTR, CPC, Conversion Rate, CPA, CPM, and ROAS**.
+- Insights and recommendations are based on the analyzed dataset.
+- The dataset is **simulated** and used for analytical and portfolio purposes.
+- The notebook was reviewed for **clarity, consistency, and reproducibility**.
 
-Customer and market segmentation
+---
 
-Data visualization with Matplotlib and Seaborn
+## 👨‍💻 Author
 
-Translating analytical findings into business recommendations
+**Md. Abed Miah**  
+Data Analyst | Python & Excel Dashboard Developer  
 
-📝 Final Notes
-The analysis covers campaign, platform, country, and time-based performance.
+📧 [oficialabed@gmail.com](mailto:oficialabed@gmail.com)  
+📱 +880 1731122699  
+🔗 [LinkedIn](https://linkedin.com/in/md-abed-miah)  
+💻 [GitHub](https://github.com/md-abed-miah)
 
-Key KPIs include CTR, CPC, Conversion Rate, CPA, CPM, and ROAS.
-
-Insights and recommendations are based on the analyzed dataset.
-
-The dataset is simulated and used for analytical and portfolio purposes.
-
-The notebook was reviewed for clarity, consistency, and reproducibility.
-
-👨‍💻 Author
-Md. Abed Miah
-Data Analyst | Python & Excel Dashboard Developer
-
-📧 oficialabed@gmail.com
-📱 +880 1731122699
-🔗 LinkedIn
-💻 GitHub
+---
 
 ⭐ If you find this project useful, feel free to explore the notebook and share your feedback.
-
-## 📂 Project Structure
-
-```text
-marketing-campaign-performance-analysis/
-│
-├── Marketing_Campaign_Analysis.ipynb
-├── marketing_campaign_data.csv
-├── README.md
-└── images/
-    ├── platform_roas.png
-    ├── campaign_roas.png
-    ├── country_roas.png
-    ├── monthly_roas.png
-    ├── weekday_revenue.png
-    └── final_dashboard.png
