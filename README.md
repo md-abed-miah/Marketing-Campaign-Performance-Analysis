@@ -225,23 +225,6 @@ The findings highlight the importance of **performance-based budget allocation**
 
 Overall, this project demonstrates how **Python and Pandas** can be used to transform marketing data into actionable business insights and support data-driven marketing decisions.
 
----
-
-## 📂 Project Structure
-
-```text
-marketing-campaign-performance-analysis/
-│
-├── Marketing_Campaign_Analysis.ipynb
-├── marketing_campaign_data.csv
-├── README.md
-└── images/
-    ├── platform_roas.png
-    ├── campaign_roas.png
-    ├── country_roas.png
-    ├── monthly_roas.png
-    ├── weekday_revenue.png
-    └── final_dashboard.png
 
 🚀 Future Improvements
 Build a machine learning model to predict campaign ROAS
@@ -295,3 +278,18 @@ Data Analyst | Python & Excel Dashboard Developer
 
 ⭐ If you find this project useful, feel free to explore the notebook and share your feedback.
 
+## 📂 Project Structure
+
+```text
+marketing-campaign-performance-analysis/
+│
+├── Marketing_Campaign_Analysis.ipynb
+├── marketing_campaign_data.csv
+├── README.md
+└── images/
+    ├── platform_roas.png
+    ├── campaign_roas.png
+    ├── country_roas.png
+    ├── monthly_roas.png
+    ├── weekday_revenue.png
+    └── final_dashboard.png
